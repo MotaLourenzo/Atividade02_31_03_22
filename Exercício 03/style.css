@@ -1,0 +1,37 @@
+body {
+    background-color: #a1a0a0;
+}
+
+
+.Primeiradiv {
+    background-color: white;
+    height: 500px;
+    width: 50vw;
+    border: 10px dotted black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.Segundadiv {
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+}
+
+
+.Terceiradiv {
+    background-color: rgb(212, 117, 0);
+    height: 100px;
+    width: 30%;
+}
+
+
+.Quartadiv {
+    background-color: rgb(0, 143, 0);
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    margin: 50px 0 0 50px;
+}
